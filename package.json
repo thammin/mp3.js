@@ -10,6 +10,9 @@
     "browserify": "^4.1.10",
     "browserify-shim": "^3.5.0"
   },
+  "files":[
+    "build"
+  ],
   "browserify-shim": {
     "av": "global:AV"
   },
